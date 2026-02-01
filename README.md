@@ -234,7 +234,7 @@ Ideas for enhancements:
 
 ## 📄 License
 
-MIT
+[MIT](https://github.com/imevanc/pr-insights-dashboard/blob/main/LICENSE)
 
 ---
 
