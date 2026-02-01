@@ -1,0 +1,21 @@
+{
+  "name": "pr-insights-dashboard",
+  "version": "1.0.0",
+  "description": "AI-powered GitHub PR analysis using Copilot SDK",
+  "type": "module",
+  "scripts": {
+    "start": "tsx src/index.ts",
+    "demo": "tsx src/index.ts --repo github/copilot-sdk"
+  },
+  "keywords": ["github", "copilot", "pr", "analytics"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@github/copilot-sdk": "latest"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "tsx": "^4.0.0",
+    "typescript": "^5.3.0"
+  }
+}
